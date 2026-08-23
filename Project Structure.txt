@@ -1,0 +1,7 @@
+Project Structure
+
+collector_app/
+│
+├── app.py              # Main Streamlit application
+├── database.py         # SQLite connection and CRUD operations
+└── requirements.txt    # Project dependencies
